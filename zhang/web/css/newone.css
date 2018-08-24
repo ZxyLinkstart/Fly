@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items:  center ;
+    background: url("../image/timg.jpg") no-repeat;
+    background-size:100% 100%;
+
+
+
+}
+
+.wel{
+    display: flex;
+    flex-direction: row;
+    justify-content:  center;
+    align-items:  center ;
+    width: 800px;
+    height: 500px;
+    background-color: rgba(200,218,232,0.7);
+}
+.i1 {
+    display: flex;
+    width: 400px;
+    height: 55px;
+    justify-content:  center;
+    align-items:  center ;
+}
+.i2{
+    display: flex;
+    width: 300px;
+    height: 40px;
+    justify-content:  center;
+    align-items:  center ;
+}
+.inputformation{
+    width: 280px;
+    height: 35px;
+}

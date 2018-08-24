@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items:  center ;
+
+    background: url("../image/info.png") no-repeat;
+    background-size:100% 100%;
+
+
+}
+
+.wel{
+    display: flex;
+    flex-direction: row;
+    justify-content:  center;
+    align-items:  center ;
+    width: 800px;
+    height: 500px;
+
+    background-color: rgba(200,218,232,0.7);
+}
+.c1 {
+    display: flex;
+    width: 350px;
+    height: 55px;
+    justify-content:  center;
+    align-items:  center ;
+}
+.c2{
+    display: flex;
+    width: 350px;
+    height: 40px;
+    justify-content:  center;
+    align-items:  center ;
+}
+.inputformation{
+    width: 280px;
+    height: 35px;
+}
